@@ -146,7 +146,7 @@ The WCA Delegate must submit the following information when requesting approval 
 ### <a name="amendments"></a> [Amendments to WCA Competitions](#ammendments)
 The following information can be changed by the competition WCA Delegate without approval, within the confines of the relevant WCA Regulations. Changes to any of the below points must be clearly communicated to all registered competitors:
 
-1. <a name="amendments-1"></a> Number of rounds ([WCA Regulation 9m)](wca{regulations/#9m}))
+[1.](#ammendments-1) <a name="amendments-1"></a> Number of rounds ([WCA Regulation 9m)](wca{regulations/#9m}))
 2. <a name="amendments-2"></a> Round formats ([WCA Regulation 9b)](wca{regulations/#9b}))
 3. <a name="amendments-3"></a> Time limits ([WCA Regulation 9s)](wca{regulations/#9s}))
 4. <a name="amendments-4"></a> Cutoffs ([WCA Regulation 9g)](wca{regulations/#9g}))
